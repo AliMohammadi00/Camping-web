@@ -2,7 +2,7 @@
 A modern and responsive landing page for a fictional camping company or service. Built with HTML, CSS, and JavaScript.
 
 ### 🚀 Demo
-<a href="https://alimohammadi00.github.io/landing-camping-web/">Live Demo</a>
+<a href="https://alimohammadi00.github.io/Camping-web/">Live Demo</a>
 
 ### 📸 Preview
 
